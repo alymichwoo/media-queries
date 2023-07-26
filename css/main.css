@@ -73,11 +73,18 @@ footer {
 
   #column-3 {
     background-color: purple;
+    width: 100%;
   }
 
   footer {
     background-color: white;
   }
+
+  .col-3 {
+    width: 50%;
+  }
+
+
   
 }
 
@@ -98,10 +105,15 @@ footer {
 
   #column-3 {
     background-color: black;
+    width: 33.3%;
   }
 
   footer {
     background-color: olive;
+  }
+
+  .col-3 {
+    width: 33.3%;
   }
    
 }
